@@ -1,4 +1,4 @@
-# If/ Else conditions are used to decide to do something based on something being true or false
+ # If/ Else conditions are used to decide to do something based on something being true or false
 
 x = 21
 y = 20
@@ -33,11 +33,11 @@ if x > 2:
 
 # and
 if x > 2 and x <= 10:
-    print(f'{x} is greater than 2 and less than or equal to 10')
+  print(f'{x} is greater than 2 and less than or equal to 10')
 
 # or
 if x > 2 or x <= 10:
-    print(f'{x} is greater than 2 or less than or equal to 10')
+  print(f'{x} is greater than 2 or less than or equal to 10')
 
 # not
 if not(x == y):
@@ -48,7 +48,7 @@ if not(x == y):
 
 numbers = [1,2,3,4,5]
 
-#  in
+# in
 if x in numbers:
   print(x in numbers)
 

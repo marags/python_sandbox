@@ -4,7 +4,7 @@ from setuptools import reduce #importing reduce module for using reduce function
 l1 = [2,3,4,5,6]
 
 mapping_the_l1 = list(map(lambda x: x*2, l1)) # MAP FUNCTION APPLIES THE GIVEN COMMAND TO EVERY INDEX OF A LIST
-# IN THIS CASE WE ARE MULTIPLYING EVERY CHARACTER IF LIST l1 TO 2 USING LAMBDA FUNCTION
+# IN THIS CASE WE ARE MULTIPLYING EVERY CHARACTER IN LIST l1 TO 2 USING LAMBDA FUNCTION
 
 print(mapping_the_l1)
 

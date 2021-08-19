@@ -20,6 +20,9 @@ person['phone'] = '555-555-5555'
 # Get dict keys
 print(person.keys())
 
+# Get dict values
+print(person.values())
+
 # Get dict items
 print(person.items())
 
